@@ -1,5 +1,3 @@
-
-from urllib import response
 import spacy
 import yaml
 import random
